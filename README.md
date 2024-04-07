@@ -1,1 +1,1 @@
-# wise_mosaics
+# Download WISE survey images and make big mosaics
