@@ -1,0 +1,5 @@
+numpy>=1.22.3
+requests>=2.27.1
+astropy>=5.0.4
+astroquery>=0.4.5
+MontagePY>=1.2.3
