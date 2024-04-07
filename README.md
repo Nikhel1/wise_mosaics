@@ -1,4 +1,4 @@
-**Download WISE Survey Images and Make Big Mosaics**
+# Download WISE Survey Images and Make Big Mosaics
 
 This repository contains a back-to-back script that first downloads WISE (Wide-field Infrared Survey Explorer) survey images and then creates large mosaics, given the corners of a rectangle in the sky. The WISE survey comprises individual tiles of 1.5 square degrees each. The scripts provided here enable the downloading of these tiles for larger regions, for example, 30 square degrees, and subsequently create a single mosaic image using Montage.
 If you use this, please cite our papers:
